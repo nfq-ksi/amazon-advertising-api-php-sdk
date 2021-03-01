@@ -33,7 +33,7 @@
   "repositories": [
     {
       "type": "vcs",
-      "url": "https://github.com/kubrey/amazon-advertising-api-php-sdk"
+      "url": "https://github.com/nfq-ksi/amazon-advertising-api-php-sdk"
     }
   ]
 }
