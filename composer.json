@@ -1,5 +1,5 @@
 {
-  "name": "kubrey/amazon-advertising-api-php-sdk",
+  "name": "nfq-ksi/amazon-advertising-api-php-sdk",
   "type": "library",
   "description": "Amazon Advertising API Client Library",
   "keywords": [
